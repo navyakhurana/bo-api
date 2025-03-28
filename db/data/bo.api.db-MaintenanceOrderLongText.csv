@@ -1,0 +1,11 @@
+Language,MaintenanceOrder,MaintenanceOrderLongText,TextObjectType
+DE,MO-7091,Systematically applied lubrication to all moving components to minimize friction. Worn blades replaced to enhance packaging precision and safety.,TXT1
+FR,MO-6345,Thoroughly cleaned intake valves to improve airflow efficiency. Air filters replaced to ensure a dust-free operational environment.,TXT2
+EN,MO-7923,Voltage settings calibrated to guarantee welding precision. Worn electrodes were replaced to enhance welding quality and consistency.,TXT3
+FR,MO-0225,Voltage settings calibrated to guarantee welding precision. Worn electrodes were replaced to enhance welding quality and consistency.,TXT3
+EN,MO-8419,Completed a full-load test assertively. Oil and filters were replaced to optimize performance. Ensured compliance with safety and efficiency standards.,TXT3
+DE,MO-7207,Voltage settings calibrated to guarantee welding precision. Worn electrodes were replaced to enhance welding quality and consistency.,TXT1
+FR,MO-6984,Voltage settings calibrated to guarantee welding precision. Worn electrodes were replaced to enhance welding quality and consistency.,TXT1
+DE,MO-5642,Conducted a comprehensive service on servo motors and recalibrated the control software. Results showed improved response times and smoother operations.,TXT3
+FR,MO-8071,Replaced charcoal filters as part of routine maintenance. Flow valve inspections carried out to ensure no obstructions in the filtration process.,TXT3
+EN,MO-5084,"Latest firmware updates applied, ensuring enhanced machine functionality. Calibration checks performed for print accuracy and consistency.",TXT1
